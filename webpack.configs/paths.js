@@ -3,7 +3,7 @@ const dir = path.dirname(__dirname);
 
 module.exports = {
   src: path.join(dir, 'src'),
-  build: path.join(dir, 'target/dist'),
+  build: path.join(dir, 'target/docs'),
   images: path.join(dir, 'src/images'),
   components: path.join(dir, 'src/components'),
   util: path.join(dir, 'src/util'),

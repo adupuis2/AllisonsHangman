@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "lib": ["es6", "es7", "dom"],
-    "outDir": "./dist/",
+    "outDir": "./docs/",
     "sourceMap": true,
     "module": "commonjs",
     "target": "es5",
